@@ -1,4 +1,4 @@
-#Emmet for Codiad
+#Emmet for Atheos
 
 ##Installation
 
