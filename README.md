@@ -1,13 +1,13 @@
-#Emmet for Atheos
+# Emmet for [Atheos](https://github.com/Atheos/Atheos/)
 
-##Installation
+## Installation
 
 - Download the zip file and unzip it to your plugin folder.
 
-##More Information
+## More Information
 
 [http://emmet.io](http://emmet.io "More Information")
 
-##Cheat Sheet
+## Cheat Sheet
 
 [http://docs.emmet.io/cheat-sheet/](http://docs.emmet.io/cheat-sheet/ "Cheat Sheet")
