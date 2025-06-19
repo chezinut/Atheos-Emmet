@@ -1,6 +1,9 @@
-[{
-    "author": "Andr3as",
-    "version": "0.1",
-    "name": "Emmet",
-    "url": "https://github.com/Andr3as/Codiad-Emmet.git"
-}]
+{
+	"author": ["CheziNut", "Andr3as"],
+	"name": "Emmet",
+	"description": "Enables emmet key bindings and autocomplete",
+	"category": "Utility",
+	"status": "available",
+	"url": "https://github.com/chezinut/Atheos-Emmet",
+	"version": "0.1.1"
+}
