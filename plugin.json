@@ -5,5 +5,11 @@
 	"category": "Utility",
 	"status": "available",
 	"url": "https://github.com/chezinut/Atheos-Emmet",
-	"version": "0.1.1"
+	"version": "0.1.1",
+	"config": [
+		{
+			"icon": "fas fa-bolt",
+			"title": "Emmet"
+		}
+	]
 }
