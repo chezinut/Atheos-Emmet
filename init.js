@@ -278,6 +278,16 @@
                 this.updateEmmetOptionsVisibility();
             });
 
+            // Ensure visibility is updated when settings are loaded into the dialog
+            carbon.subscribe('settings.loaded', () => {
+                this.updateEmmetOptionsVisibility();
+            });
+
+            // Update visibility when a settings panel is inserted into the DOM
+            carbon.subscribe('settings.panelLoaded', () => {
+                this.updateEmmetOptionsVisibility();
+            });
+
             this.settingsListenerBound = true;
         },
 
