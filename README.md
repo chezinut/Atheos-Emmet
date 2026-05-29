@@ -3,6 +3,7 @@
 ## Installation
 
 - Download the zip file and unzip it to your plugin folder.
+- or git clone this repo inside of plugin folder using Atheos :)
 
 ## More Information
 
