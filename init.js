@@ -231,8 +231,10 @@
         });
     }
 
+    const pluginBasePath = typeof atheos.path === 'string' ? atheos.path : '';
+
     atheos.Emmet = {
-        path: atheos.path + 'plugins/Atheos-Emmet/',
+        path: pluginBasePath + 'plugins/Atheos-Emmet/',
         isReady: false,
         settingsListenerBound: false,
         focusListenerBound: false,
@@ -246,7 +248,7 @@
         },
 
         init() {
-            atheos.common.loadScript(atheos.path + 'components/editor/ace-editor/ext-emmet.js', () => {
+            atheos.common.loadScript(pluginBasePath + 'components/editor/ace-editor/ext-emmet.js', () => {
                 const Emmet = ace.require('ace/ext/emmet');
 
                 atheos.common.loadScript(this.path + 'emmet.js', () => {
