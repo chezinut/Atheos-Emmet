@@ -234,7 +234,7 @@
     const pluginBasePath = typeof atheos.path === 'string' ? atheos.path : '';
 
     atheos.Emmet = {
-        path: pluginBasePath + 'plugins/Atheos-Emmet/',
+        path: pluginBasePath + 'plugins/Emmet/',
         isReady: false,
         settingsListenerBound: false,
         focusListenerBound: false,
