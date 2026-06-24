@@ -3,7 +3,7 @@
 ## Installation
 
 - Download the zip file and unzip it to your plugin folder.
-- or git clone this repo inside of plugin folder using Atheos :)
+- or git clone this repo inside of plugin folder using Atheos :) and then rename it to just Emmet
 
 ## More Information
 
