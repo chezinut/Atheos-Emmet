@@ -2,7 +2,7 @@
 	"author": ["CheziNut", "Andr3as"],
 	"name": "Emmet",
 	"description": "Enables emmet key bindings and autocomplete",
-	"category": "Utility",
+	"category": "Development",
 	"status": "available",
 	"url": "https://github.com/chezinut/Atheos-Emmet",
 	"version": "0.1.1",
